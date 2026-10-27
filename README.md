@@ -27,3 +27,6 @@
 ### 🚀 Projects
 - Exploring ideas and developing projects to apply my skills.
 - Currently working on VerifyAI
+
+### 🫱🏽‍🫲🏼 Connect With Me
+- Linkden https://www.linkedin.com/in/devesh-chauhan-828b81370?utm_source=share_via&utm_content=profile&utm_medium=member_android
