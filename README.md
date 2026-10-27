@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Devesh
+# 👋 Hi, I'm Devesh Chauhan
 
 - 🎓 B.Tech Student | Artificial Intelligence & Machine Learning
 - 💻 Languages: Python, Java
